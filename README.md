@@ -1,5 +1,5 @@
 # r-font-bridge
-Utility for loading system fonts families which are not sysfonts::font_families. Bridges systemfonts and sysfonts.
+Utility for loading system fonts families which are not sysfonts::font_families. Bridges `systemfonts` and `sysfonts.
 
 ## Installation
 
